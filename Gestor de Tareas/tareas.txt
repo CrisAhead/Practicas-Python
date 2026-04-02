@@ -1,5 +1,5 @@
 Historia,False
 Lengua,True
-Gaming,False
-LOL,True
-CACA,False
+Economía,False
+Música,True
+Math,False
